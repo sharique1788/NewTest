@@ -17,8 +17,8 @@ if(a<b) {
 }
 
 //multiple conditions example
-int c=500;
-int d=400;
+int c=200;
+int d=250;
 int e=300;
 
 if(c>d && c>e) {

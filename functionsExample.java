@@ -3,7 +3,7 @@ package Test;
 public class functionsExample {
 
 	public static void main(String[] args) {
-		
+		printMe();
 		new functionsExample().printMe();
 	}
 	
